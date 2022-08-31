@@ -1,0 +1,22 @@
+{
+  "name": "TestReportTool",
+  "version": "0.1.0",
+  "summary": "A short description of TestReportTool.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Sergiy Shevchuk/TestReportTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Sergiy Shevchuk": "sshevchuk@roku.com"
+  },
+  "source": {
+    "git": "https://github.com/Sergiy Shevchuk/TestReportTool.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "TestReportTool/Classes/**/*"
+}

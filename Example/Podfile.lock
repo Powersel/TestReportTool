@@ -1,0 +1,27 @@
+PODS:
+  - Nimble (10.0.0)
+  - Quick (2.2.1)
+  - TestReportTool (0.1.0)
+
+DEPENDENCIES:
+  - Nimble (~> 10.0.0)
+  - Quick (~> 2.2.0)
+  - TestReportTool (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Nimble
+    - Quick
+
+EXTERNAL SOURCES:
+  TestReportTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Nimble: 5316ef81a170ce87baf72dd961f22f89a602ff84
+  Quick: f5754d69b7013f5864c29aab9ae6f0c79c5bc200
+  TestReportTool: 40fbd7a8dc43609c8591d393a05bc11007596192
+
+PODFILE CHECKSUM: 15a6704def33ff2050f48357babaa1cd6f82fdee
+
+COCOAPODS: 1.11.2
